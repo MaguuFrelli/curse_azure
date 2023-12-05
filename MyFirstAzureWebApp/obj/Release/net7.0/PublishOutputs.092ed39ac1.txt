@@ -1,0 +1,7 @@
+/Users/magu/git/azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp
+/Users/magu/git/azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/magu/git/azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/appsettings.json
+/Users/magu/git/azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp.dll
+/Users/magu/git/azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp.deps.json
+/Users/magu/git/azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp.runtimeconfig.json
+/Users/magu/git/azure/MyFirstAzureWebApp/bin/Release/net7.0/publish/MyFirstAzureWebApp.pdb
